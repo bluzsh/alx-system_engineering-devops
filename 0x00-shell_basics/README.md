@@ -1,2 +1,2 @@
-# ALX System Engineering Repo..
-This repository is for only educational purpose...
+# Shell Navigation Basics!!
+
